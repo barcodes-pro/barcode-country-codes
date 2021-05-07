@@ -1,6 +1,6 @@
 # UPC and EAN Barcode Country Codes
 
-## The list of UPC and EAN barcode country codes
+## The list of UPC and EAN [barcode country codes](https://barcodes.pro/blog/barcode-country-codes)
 
 Here is the current list of barcode country codes used worldwide.
 
