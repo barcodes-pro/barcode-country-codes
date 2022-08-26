@@ -2,6 +2,8 @@
 
 ## The list of UPC and EAN [barcode country codes](https://barcodes.pro/blog/barcode-country-codes)
 
+[Buy barcodes](https://barcodes.pro/) UPC and EAN codes for your products to list on [amazon](https://barcodes.pro/amazon) and retail stores.
+
 Here is the current list of barcode country codes used worldwide.
 
 -   **000 – 019**  [United States barcodes](https://barcodes.pro/region/United-States)  and  [Canada barcodes](https://barcodes.pro/region/Canada)
