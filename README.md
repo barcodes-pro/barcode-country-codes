@@ -2,7 +2,7 @@
 
 ## The list of UPC and EAN [barcode country codes](https://barcodes.pro/blog/barcode-country-codes)
 
-[Buy barcodes](https://barcodes.pro/) UPC and EAN codes for your products to list on [amazon](https://barcodes.pro/amazon) and retail stores.
+[Buy barcodes](https://barcodes.pro/), UPC and EAN codes, [barcodes for amazon](https://barcodes.pro/amazon) for your products to list on retail stores.
 
 Here is the current list of barcode country codes used worldwide.
 
